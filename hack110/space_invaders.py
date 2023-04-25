@@ -1,3 +1,5 @@
+"""Pygame tutorial!"""
+
 import pygame
 import random
 import math
